@@ -10,7 +10,7 @@ Projeto de Mario Jump Game para fixar alguns conceitos de programação.
 </p>
 
 <p align="center">
-  <img alt="projeto mario jump game" src=".img/game.jpg">
+  <img alt="projeto mario jump game" src=".img/game-mario.jpg">
 </p>
 
 <br>
